@@ -1,0 +1,7 @@
+ok  ssh
+
+
+https://github.com/Rupesh-98/om.git
+
+above 
+ssh  key for om global repository or remote repository
